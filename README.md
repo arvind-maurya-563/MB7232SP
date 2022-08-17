@@ -1,4 +1,4 @@
-[![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)](https://rishavchanda.io)
+
 <h1 align="center">Hi there! I'm Arvind Maurya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
    
