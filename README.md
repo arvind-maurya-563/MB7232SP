@@ -7,7 +7,7 @@
    
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 👨‍💻 My Portfolio - [Arvind Maurya](https://fastidious-bunny-557134.netlify.app)
+- 👨‍💻 My Portfolio - [Arvind Maurya](https://arvind-portfolio-1.netlify.app)
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/arvind-maurya-85b955209/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="mauryaarvind962@gmail.com" href="mailto:mauryaarvind962@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/916394292357" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
-  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://arvind-portfolio-1.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <h2>📊 Github Stats</h2>
 <br/>
