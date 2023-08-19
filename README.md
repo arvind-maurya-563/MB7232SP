@@ -6,10 +6,10 @@
   <br>
    
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
-
+- 🌱 I’m currently working As a Software Engineer At Borderfree Technology.
 - 👨‍💻 My Portfolio - [Arvind Maurya](https://arvind-portfolio-1.netlify.app)
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m learning Data Structures and Algorithms.
 
 - 📫 How to reach me mauryaarvind962@gmail.com
 
