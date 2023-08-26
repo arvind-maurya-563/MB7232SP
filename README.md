@@ -6,7 +6,6 @@
   <br>
    
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
-- 🌱 I’m currently working as a Software Engineer at Borderfree Technology.
 - 👨‍💻 My Portfolio - [Arvind Maurya](https://arvind-portfolio-1.netlify.app)
 
 - 🌱 I’m learning Data Structures and Algorithms.
